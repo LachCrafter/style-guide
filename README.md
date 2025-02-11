@@ -1,11 +1,11 @@
-# vicuna.io Style Guide
+# LachCrafter Style Guide
 
 ## Formatting
 
 Indent using 2 Spaces (including continuous indents)
 
 ### Use "One True Brace Style" aka. [1TBS](https://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)
-Since we want a consistent code base and reduce the vertical size of our code.
+Since I want a consistent code base and reduce the vertical size of my code.
 
 ```java
 // BAD  
