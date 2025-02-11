@@ -105,7 +105,7 @@ public enum FallbackPolicy {
   EXPLICIT
 }
 
-// GOD
+// GOOD
 public enum  FallbackPolicy {
   Throw,
   LastEntry,
